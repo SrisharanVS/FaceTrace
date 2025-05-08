@@ -1,9 +1,8 @@
-# 22PT08-Katomaran-Hackathon-May-2025
+# FaceTrace
 
-A sophisticated face recognition platform that enables local, privacy-focused multi-face detection, real-time identification, and AI-powered conversational interactions. This application was developed for the Katomaran Hackathon (May 2025).
+A sophisticated face recognition platform that enables local, privacy-focused multi-face detection, real-time identification, and AI-powered conversational interactions.
 
-This project is a part of a hackathon run by https://katomaran.com
----
+
 
 ## 🌟 Key Features
 
@@ -179,10 +178,5 @@ Then access your application at the URL provided by localtunnel.
 
 Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit pull requests.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
